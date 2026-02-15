@@ -1,0 +1,2 @@
+class Combate():
+    pass
